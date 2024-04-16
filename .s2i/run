@@ -1,8 +1,0 @@
-#!/bin/bash
-# This script is used to run the application
-
-# Navigate to the application source directory
-cd $APP_ROOT/src
-
-# Execute the Streamlit application
-exec streamlit run app.py
