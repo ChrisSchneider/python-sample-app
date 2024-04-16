@@ -1,2 +1,5 @@
-# GENAI_KEY=<your-genai-key>
-# GENAI_API=<genai-api-endpoint>
+# Streamlit sample app
+
+Start with
+    
+    streamlit run app.py
